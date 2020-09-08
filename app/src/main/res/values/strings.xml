@@ -1,0 +1,49 @@
+<!--
+  ~ MIT License
+  ~
+  ~ Copyright (c) 2020 David O.
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in all
+  ~ copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  ~ SOFTWARE.
+  -->
+
+<resources>
+    <string name="app_name">GADS Leaderboard</string>
+    <string name="splash_screen_img_desc">Gads image for splash screen</string>
+    <string name="learning_tab_tile">Learning Leaders</string>
+    <string name="iq_tab_title">Skill IQ Leaders</string>
+    <string name="app_bar_submit">Submit</string>
+    <string name="app_bar_title">LeaderBoard</string>
+    <string name="gads_app_bar_banner">GADS app bar banner</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="email_address">Email Address</string>
+    <string name="project_url_on_github">Project URL on Github</string>
+    <string name="submit">Submit</string>
+
+    <string name="user_image_desc">Image of the user</string>
+
+    <plurals name="user_details_msg">
+
+        <item quantity="one">learning hour</item>
+        <item quantity="other">learning hours</item>
+
+    </plurals>
+
+</resources>
